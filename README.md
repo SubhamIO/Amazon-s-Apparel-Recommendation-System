@@ -1,6 +1,6 @@
 # Amazon-s-Apparel-Recommendation-System
 
-<p> Statement:It is a recommendation System based on Content based Clustering . Similar items are grouped or clustered using Pairwise Eucledean Distances. </p>
+<p> Statement:  It is a recommendation System based on Content based Clustering . Similar items are grouped or clustered using Pairwise Eucledean Distances. </p>
 
 <h6> Context:</h6>
 <p> Source: https://drive.google.com/file/d/1pLSMmJNzmlkQhwSHhecDwHcb0C8mzG0Q/view?usp=sharing</p>
